@@ -1,5 +1,5 @@
 <body>
-    <h1>Human Resource Analytics Using Tableau</h1>
+    <h1>Enhancing Human Resource Operations Through Tableau Visualizations</h1>
     <p>This repository contains the analysis of the HR Analytics dataset using Tableau. The project aims to explore and analyze employee data to uncover insights and trends that can help optimize Human Resource operations.</p>
     <h2>Problem Statement:</h2>
     <p>Human Resource management faces challenges in balancing staffing, ensuring fair pay, promoting diversity, enhancing performance, and retaining employees. With varied employee data, identifying trends and making informed decisions can be difficult. This project aims to use Tableau visualizations to uncover insights that will help optimize HR operations and improve overall workforce satisfaction and efficiency.</p>
